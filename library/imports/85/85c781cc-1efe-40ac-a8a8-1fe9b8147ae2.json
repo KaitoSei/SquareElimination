@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "加载中 副本",
+    "texture": "26fa9f79-9bab-47bf-b1d3-7252e1ede5d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      205,
+      79
+    ],
+    "offset": [
+      -4,
+      0.5
+    ],
+    "originalSize": [
+      213,
+      80
+    ]
+  }
+}

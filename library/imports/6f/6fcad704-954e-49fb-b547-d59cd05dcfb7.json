@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "_0007_排名",
+    "texture": "3c3ee3b0-3a0f-4751-bc56-714b319c6014",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      134
+    ]
+  }
+}

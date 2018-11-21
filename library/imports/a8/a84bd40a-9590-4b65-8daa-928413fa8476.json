@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "957 - 副本",
+    "texture": "8a387929-cee5-4228-953e-6d1bcb50665d",
+    "atlas": "",
+    "rect": [
+      5,
+      10,
+      558,
+      225
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      568,
+      245
+    ]
+  }
+}

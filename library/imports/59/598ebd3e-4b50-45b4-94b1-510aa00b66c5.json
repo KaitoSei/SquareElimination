@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "video_button_shop",
+    "texture": "0455cf9c-e302-4818-ba56-a7073556edd9",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      112,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      74
+    ]
+  }
+}

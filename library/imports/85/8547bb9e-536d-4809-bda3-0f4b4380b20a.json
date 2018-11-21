@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "_0006_评分",
+    "texture": "cac10e02-7775-4be6-9bef-af6d16f4a3f9",
+    "atlas": "",
+    "rect": [
+      0,
+      3,
+      156,
+      131
+    ],
+    "offset": [
+      -3,
+      -1.5
+    ],
+    "originalSize": [
+      162,
+      134
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "_0025_重新开局",
+    "texture": "d9fdde90-a36f-4468-ab26-36a90b239ee2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      92
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      122,
+      92
+    ]
+  }
+}

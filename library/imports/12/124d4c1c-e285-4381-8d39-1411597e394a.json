@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "_0023_框",
+    "texture": "ba378a96-851a-4bbb-9cba-81a9ab2e23db",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      728
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      728
+    ]
+  }
+}

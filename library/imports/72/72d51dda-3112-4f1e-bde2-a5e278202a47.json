@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "_0009_奖杯",
+    "texture": "998d204e-ac68-428b-846f-0281e396ef9e",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      96,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      98,
+      81
+    ]
+  }
+}

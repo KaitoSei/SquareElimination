@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "_0013_最高分",
+    "texture": "39af6f66-45b9-4703-9705-6dd1a47d87de",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      286,
+      91
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      287,
+      91
+    ]
+  }
+}

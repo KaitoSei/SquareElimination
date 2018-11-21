@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "_0025_排行榜 ",
+    "texture": "a7674db5-2a20-451b-81c7-6c3f5e3bf8f0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      119,
+      92
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      122,
+      92
+    ]
+  }
+}

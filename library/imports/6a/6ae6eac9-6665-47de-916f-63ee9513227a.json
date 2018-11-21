@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "2_0002_椭圆-1-拷贝-2",
+    "texture": "d8e46831-af3c-452f-ac67-965679debb73",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      818,
+      319
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      818,
+      319
+    ]
+  }
+}
